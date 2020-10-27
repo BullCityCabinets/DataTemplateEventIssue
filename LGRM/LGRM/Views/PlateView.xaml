@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LGRM.XamF.Views.PlateView"
+             Visual="Material"
+             Title="Lean &amp; Green Recipe Machine beta"
+             xmlns:dTSelector="clr-namespace:LGRM.XamF.Views">    
+    
+    <ContentPage.Resources>        
+        <ResourceDictionary Source="..\Styles\Colors.xaml"/>        
+        <!--........................................Actual App to have multiple DatTemplates-->
+        <ResourceDictionary Source="MyDataTemplate1.xaml" />
+        <dTSelector:MyDataTemplateSelector x:Key="MyDataTemplateSelector"
+                                           MyDataTemplate1 ="{StaticResource  myDataTemplate1}" />
+        <!--........................................Actual App to have multiple DatTemplates-->            
+    </ContentPage.Resources>    
+
+    
+    <ContentPage.Content>        
+        
+        <ScrollView>                        
+            
+            <StackLayout>
+
+                <!--Header-->
+                <StackLayout Padding="20" BackgroundColor = "White">
+                    <!-- THIS IS THE LABEL THAT IS INTENDED TO BE UPDATED BY THE DATATEMPLATE'S ENTRY-->
+                    <!-- THIS IS THE LABEL THAT IS INTENDED TO BE UPDATED BY THE DATATEMPLATE'S ENTRY-->
+                    <!-- THIS IS THE LABEL THAT IS INTENDED TO BE UPDATED BY THE DATATEMPLATE'S ENTRY-->
+                    <Label Text="Portions should update by Entries' TextChanged Events..."  FontSize="Large"/>
+                    <Label Text="{Binding TotalGs, StringFormat=        'Portions... {0}'}" FontSize="Large" BackgroundColor="Yellow"/>
+                    <!-- THIS IS THE LABEL THAT IS INTENDED TO BE UPDATED BY THE DATATEMPLATE'S ENTRY-->
+                    <!-- THIS IS THE LABEL THAT IS INTENDED TO BE UPDATED BY THE DATATEMPLATE'S ENTRY-->
+                    <!-- THIS IS THE LABEL THAT IS INTENDED TO BE UPDATED BY THE DATATEMPLATE'S ENTRY-->
+                    
+                    
+                    <Label Text="{Binding MyGreens.Count, StringFormat= 'Types...... {0}'}" FontSize="Large"/>
+                </StackLayout>
+
+                <StackLayout x:Name="CategoriesDiv" Margin="0">
+                        
+                        <CollectionView x:Name="CollViewG" ItemsSource="{Binding MyGreens}" HeightRequest="{Binding HeightG}" ItemTemplate="{StaticResource MyDataTemplateSelector}" VerticalOptions="FillAndExpand" BackgroundColor="{StaticResource Greens200}">
+                            <CollectionView.EmptyView>
+                                <Label Text="No items selected, yet... "/>
+                            </CollectionView.EmptyView>
+                        </CollectionView>
+
+                        <!--Navigation Button-->
+                        <StackLayout Orientation="Horizontal" Padding="0,0,8,12" HorizontalOptions="End">
+                            <ActivityIndicator x:Name ="indicatorG" Color="{StaticResource Greens245}" IsRunning="false" Margin="0,0,12,0" HorizontalOptions="EndAndExpand"/>
+                            <Button x:Name= "GreensButton" Text= "add greens... " FontSize="Large" Clicked="GoToGreensButton_Clicked" />
+                        </StackLayout>
+                        
+                    
+                    <Label Text=" " Padding="0,0,0,300"/>
+                    
+                </StackLayout>
+            </StackLayout>
+            
+        </ScrollView>
+        
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"                          
+                x:Class="LGRM.XamF.Views.ListOfGreensView"
+             Visual="Material"
+             Title="Select Greens"
+             xmlns:dTSelector="clr-namespace:LGRM.XamF.Views">
+    <ContentPage.Resources>
+        <ResourceDictionary Source="..\Styles\Colors.xaml"/>
+        
+    </ContentPage.Resources>
+    <ContentPage.ToolbarItems>
+        <ToolbarItem 
+            IconImageSource="baseline_build_black_48dp.png"
+            Order="Primary"
+            Priority="0" />
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="{StaticResource Greens100}">
+            <StackLayout x:Name="MainDiv">
+
+                <StackLayout x:Name="SearchAndFilter" Orientation="Horizontal" Margin="5,5,8,0"> 
+                    <Picker x:Name="picker" ItemsSource="{Binding Categories}" SelectedItem="{Binding SelectedCategory}"
+                        WidthRequest="150" HeightRequest="50" 
+                        BackgroundColor="{StaticResource Greens245}" />
+                    <SearchBar x:Name="searchBar" Placeholder="Search ..."
+                        HorizontalOptions="EndAndExpand" VerticalOptions="CenterAndExpand" HorizontalTextAlignment="Start"                                                 
+                        Text="{Binding SearchQuery}" TextTransform="Lowercase"
+                        WidthRequest="250"       
+                        FontSize="Large"
+                        BackgroundColor="{StaticResource Greens245}" />
+                </StackLayout>
+
+                <CollectionView
+                    x:Name="GroceryListView"
+                    ItemsSource="{Binding Groceries}" 
+                    SelectionMode="Multiple" SelectedItems="{Binding MySelectedItems, Mode=TwoWay}"
+                    SelectionChangedCommand="{Binding MySelectionChangedCommand}"
+                    ItemSizingStrategy="MeasureFirstItem" VerticalOptions="FillAndExpand"
+                    Margin="8,4,8,4" >
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <Frame CornerRadius="4" IsClippedToBounds="True" Padding="0" Margin="3,3,8,8" BorderColor="LightSlateGray">
+
+                                <VisualStateManager.VisualStateGroups>
+                                    <VisualStateGroup x:Name="CommonStates">
+                                        <VisualState x:Name="Normal">
+                                            <VisualState.Setters>
+                                                <Setter Property="BackgroundColor" Value="White"/>
+                                                <Setter Property="BorderColor" Value="SlateGray"/>
+                                            </VisualState.Setters>
+                                        </VisualState>
+                                        <VisualState x:Name="Selected">
+                                            <VisualState.Setters>
+                                                <Setter Property="BackgroundColor" Value="LightGoldenrodYellow"/>
+                                                <Setter Property="BorderColor" Value="White"/>
+                                            </VisualState.Setters>
+                                        </VisualState>
+                                    </VisualStateGroup>
+                                </VisualStateManager.VisualStateGroups>
+
+                                <StackLayout Margin="0,0,0,0" Spacing="0">
+                                    <!--<StackLayout Margin=" creates Row Spacing!"-->
+
+
+                                    <Grid
+                    VerticalOptions="Start" HorizontalOptions="FillAndExpand"       
+                    Margin="0" Padding="0" RowSpacing="0" >
+                                        <!--Margin="0" Padding="0,0,5,15" RowSpacing="0" >-->
+
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="25"></RowDefinition>
+                                            <!--0-->
+                                            <RowDefinition Height="Auto"></RowDefinition>
+                                            <!--1-->
+                                            <RowDefinition Height="Auto"></RowDefinition>
+                                            <!--2-->
+                                        </Grid.RowDefinitions>
+
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="80"></ColumnDefinition>
+                                            <!--0-->
+                                            <ColumnDefinition Width="*"></ColumnDefinition>
+                                            <!--1-->
+                                            <ColumnDefinition Width="90"></ColumnDefinition>
+                                            <!--2-->
+                                        </Grid.ColumnDefinitions>
+
+                                        <!--Icon.....................................................................-->
+
+                                        <Image Source="{Binding IconName}" 
+                           Grid.RowSpan="3" Margin="0" 
+                           HorizontalOptions="Start" VerticalOptions="Start" 
+                           BackgroundColor="{Binding IconColor1, Converter={StaticResource LocalHexColorFromStringConverter}}"/>
+
+                                        <!--Name.....................................................................-->
+                                        <StackLayout Grid.Row="0"    Grid.RowSpan="3" 
+                                 Grid.Column="1" Grid.ColumnSpan="2"
+                                 Margin="0"      Padding="5,0,0,0">
+
+                                            <Label Text="{Binding Name1}"
+                        FontSize="Large" FontAttributes="Bold" />
+
+                                            <Label Text="{Binding Name2}"
+                               FontSize="Medium" FontAttributes="Bold" 
+                               Padding="2,0,0,0"/>
+
+                                            <Label
+                            Text="{Binding EtcString}"
+                            FontSize="Body"
+                            Padding="2,0,0,0"/>
+                                            <!--<BoxView BackgroundColor="LightGray" HorizontalOptions="FillAndExpand"/>-->
+                                        </StackLayout>
+
+                                        <!--Standard Serving Size Reference..........................................-->
+                                        <StackLayout
+                    Grid.Row="0" Grid.Column="2" Grid.RowSpan="3" VerticalOptions="Start" HorizontalOptions="Center" Padding="0,12,0,0" >
+                                            <Label Text="{Binding WeightServing}" FontSize="Body" HorizontalTextAlignment="Center"/>
+                                            <Label Text="{Binding VolumeServing}" FontSize="Body" HorizontalTextAlignment="Center"/>
+                                            <!--<Label Text="{Binding CountServing}" FontSize="Body" HorizontalTextAlignment="Center"/>-->
+                                        </StackLayout>
+
+                                    </Grid>
+
+                                </StackLayout>
+                            </Frame>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+
+                    <CollectionView.ItemsLayout>
+                        <LinearItemsLayout Orientation="Vertical" ItemSpacing="4"/>
+                    </CollectionView.ItemsLayout>
+
+                    <!--Footer...................................................................-->
+                    <CollectionView.Footer>
+                        <StackLayout>
+                            <Label
+                                Text="{Binding footerText}"
+                                FontSize="Micro"
+                                HorizontalTextAlignment="Center"
+                                Padding="0,0,0,200"/>
+                        </StackLayout>
+                    </CollectionView.Footer>
+
+                </CollectionView>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

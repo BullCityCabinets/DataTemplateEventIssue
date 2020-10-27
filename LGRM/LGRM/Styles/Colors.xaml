@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ResourceDictionary xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+
+    <Color x:Key="Grey245">#F3F5F7</Color>
+    <Color x:Key="Grey200">#BCCBD4</Color>
+    <Color x:Key="Grey100">#4F6979</Color>
+    <Color x:Key="Grey50">#27353D</Color>
+
+    <Color x:Key="Leans245">#F8F2F8</Color>
+    <Color x:Key="Leans200">#DAB6DA</Color>
+    <Color x:Key="Leans100">#854385</Color>
+    <Color x:Key="Leans50">#663332</Color>
+
+    <Color x:Key="Greens245">#FAFFEB</Color>
+    <Color x:Key="Greens200">#E2FF91</Color>
+    <Color x:Key="Greens100">#94C800</Color>
+    <Color x:Key="Greens50">#4A6400</Color>
+
+    <Color x:Key="HealthyFats245">#F0FAF9</Color>
+    <Color x:Key="HealthyFats200">#AAE6DF</Color>
+    <Color x:Key="HealthyFats100">#2D9B8E</Color>
+    <Color x:Key="HealthyFats50">#164E47</Color>
+
+    <Color x:Key="Condiments245">#EFF7FB</Color>
+    <Color x:Key="Condiments200">#A7D3E9</Color>
+    <Color x:Key="Condiments100">#2878A0</Color>
+    <Color x:Key="Condiments50">#143C50</Color>
+
+    <Color x:Key="Neutral245">#F7F6F3</Color>
+    <Color x:Key="Neutral200">#D5CCBB</Color>
+    <Color x:Key="Neutral100">#7B6C4D</Color>
+    <Color x:Key="Neutral50">#3E3626</Color>
+
+</ResourceDictionary>

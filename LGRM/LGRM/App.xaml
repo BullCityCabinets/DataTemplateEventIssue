@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LGRM.App"
+             xmlns:converter="clr-namespace:LGRM.XamF.Framework">
+    <Application.Resources>
+        
+        <converter:ItemTappedConverter x:Key="LocalItemTappedConverter"/>
+        <converter:HexColorFromStringConverter x:Key="LocalHexColorFromStringConverter"/>
+
+        <!--<ResourceDictionary Source="Styles/Colors.xaml"/>-->
+
+    </Application.Resources>
+</Application>

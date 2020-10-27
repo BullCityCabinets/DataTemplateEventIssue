@@ -1,0 +1,3 @@
+﻿~~~~~~~~~~~~~~~~~~~~~ This is my TestText.txt file in the LGRM.XamF project!
+~~~~~~~~~~~~~~~~~~~~~ Hooray!
+~~~~~~~~~~~~~~~~~~~~~ Hip-hip, Hooray!

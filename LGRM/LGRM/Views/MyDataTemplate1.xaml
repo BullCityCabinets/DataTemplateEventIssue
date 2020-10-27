@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ResourceDictionary xmlns="http://xamarin.com/schemas/2014/forms"               
+                    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                    xmlns:behaviors ="clr-namespace:LGRM.XamF.Framework">
+
+    <DataTemplate x:Name="MyDataTemplate1" x:Key="myDataTemplate1">
+            <!--<Outter StackLayout Margin creates Row Spacing (seems like a Frame bug) !-->
+            <StackLayout Margin="0,0,0,8" Spacing="0">
+
+            <Frame CornerRadius="4" IsClippedToBounds="True" Padding="0,0,0,18" BorderColor="SlateGray">
+                <Grid VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="0" Padding="0" RowSpacing="0" >
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="35"></RowDefinition>                    
+                        <RowDefinition Height="25"></RowDefinition>                    
+                        <RowDefinition Height="*"></RowDefinition>                     
+                        <RowDefinition Height="Auto"></RowDefinition>                  
+                        <RowDefinition Height="Auto"></RowDefinition>                  
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="50"></ColumnDefinition>               
+                        <ColumnDefinition Width="*"></ColumnDefinition>                
+                        <ColumnDefinition Width="90"></ColumnDefinition>               
+                    </Grid.ColumnDefinitions>
+                    
+                    <Image Source="{Binding IconName}" Grid.RowSpan="3" Margin="0" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="{Binding IconColor1, Converter={StaticResource LocalHexColorFromStringConverter}}"/>                    
+                    <StackLayout Grid.Row="0" Grid.RowSpan="3" Grid.Column="1" Grid.ColumnSpan="2" Margin="0" Padding="5,0,0,0">
+                        <Label Text="{Binding Name1}" FontSize="Large" FontAttributes="Bold" />
+                        <Label Text="{Binding Name2}" VerticalTextAlignment="Start" FontSize="Medium" FontAttributes="Bold"/>
+                        <Label Text="{Binding EtcString}" Padding="2,0,0,0" FontSize="Body"/>                        
+                    </StackLayout>
+                    <StackLayout Grid.Row="0" Grid.Column="2" Grid.RowSpan="3" VerticalOptions="Start" HorizontalOptions="Center" Padding="0,12,0,0" >
+                        <Label Text="{Binding WeightServing}" FontSize="Body" HorizontalTextAlignment="Center"/>
+                        <Label Text="{Binding VolumeServing}" FontSize="Body" HorizontalTextAlignment="Center"/>
+                    </StackLayout>
+
+                    <!--Total Servings ...................................................-->
+                    <StackLayout
+                    Orientation="Horizontal" HorizontalOptions="Center"
+                    Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="3" Padding="0,0,0,8">
+
+                        <Label x:Name="ServingsLabel" Text="Total Serving"                           
+                           VerticalOptions="Center" HorizontalOptions="End"
+                           FontSize="Large"/>
+                        
+                        
+                        
+                        
+                        
+                        
+<!--THIS IS THE ENTRY I NEED TO CAPTURE AN EVENT FROM:-->
+<!--THIS IS THE ENTRY I NEED TO CAPTURE AN EVENT FROM:-->
+<!--THIS IS THE ENTRY I NEED TO CAPTURE AN EVENT FROM:-->
+                        <Entry x:Name="PortionEntry"
+                            Keyboard="Numeric"
+                            Text ="{Binding QtyPortion, Mode=TwoWay}"                                             
+                            WidthRequest="80"
+                            FontSize="{Binding Source={x:Reference ServingsLabel}, Path=FontSize}" >
+                            <Entry.Behaviors>
+                                <behaviors:EventToCommandBehavior EventName="TextChanged" Command="{Binding Source={RelativeSource AncestorType={x:Type ContentPage}}, Path=BindingContext.TestCommand}"/>
+                                <behaviors:EventToCommandBehavior EventName="TextChanged" Command="{Binding BindingContext.TestCommand, Source={x:Reference PlateVM}}"/>
+                                <behaviors:EventToCommandBehavior EventName="TextChanged" Command="{Binding BindingContext.TestCommand, Source={x:Reference MyPlateVM}}"/>
+                                <behaviors:EventToCommandBehavior EventName="TextChanged" Command="{Binding BindingContext.TestCommand, Source={x:Reference PlateView}}"/>
+                                                                
+                                <!--<behaviors:EventToCommandBehavior EventName="Completed"
+                                    Command="{Binding Source={RelativeSource AncestorType={x:Type ContentPage}}, Path=BindingContext.TestCommand}"/>-->
+                                <!--<behaviors:EventToCommandBehavior EventName="Focused"
+                                    Command="{Binding Source={RelativeSource AncestorType={x:Type ContentPage}}, Path=BindingContext.TestCommand}"/>-->
+
+                                
+                            </Entry.Behaviors>
+                        </Entry>
+                    
+<!--THIS IS THE ENTRY I NEED TO CAPTURE AN EVENT FROM:-->
+<!--THIS IS THE ENTRY I NEED TO CAPTURE AN EVENT FROM:-->
+<!--THIS IS THE ENTRY I NEED TO CAPTURE AN EVENT FROM:-->
+                        
+                    </StackLayout>
+
+
+
+
+
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="3">
+                        <Entry x:Name="EntryW" Keyboard="Numeric" WidthRequest="80" FontSize="Medium" Text ="{Binding QtyWeight}"/>
+                        <Label Text="{Binding UomWeight}" VerticalOptions="End" HorizontalOptions="End" Margin="3,3,15,3" FontSize="Medium"/>
+                        <Entry x:Name="EntryV" Keyboard="Numeric" WidthRequest="80" FontSize="Medium" Text ="{Binding QtyVolume}"/>
+                        <Label Text="{Binding UomVolume}" VerticalOptions="End" HorizontalOptions="End" Margin="3,3,15,3" FontSize="Medium"/>
+                        <!--<Entry x:Name="EntryC" Keyboard="Numeric" WidthRequest="80" FontSize="Medium" Text ="{Binding QtyCount}"/>-->
+                        <!--<Label Text="{Binding UomCount}" VerticalOptions="End" HorizontalOptions="End" Margin="3,3,15,3" FontSize="Medium"/>-->
+                    </StackLayout>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+<!--THIS, FOR SOME WEIRD REASON, WORKS FINE:-->
+<!--THIS, FOR SOME WEIRD REASON, WORKS FINE:-->
+<!--THIS, FOR SOME WEIRD REASON, WORKS FINE:-->
+                    <StackLayout  Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="3" Padding="15">
+                        
+                        <Label Text="Tap Gesture works to update Portion, but I can't get the Entry's TextChanged to do it!" FontSize="Medium"/>
+                        <Label Text="&gt;&gt;&gt;   CHANGE PORTION,  &lt;&lt;&lt;" FontSize="Large" FontAttributes="Bold" HorizontalTextAlignment="Center" BackgroundColor="Yellow"/>
+                        <Label Text="&gt;&gt;&gt;  THEN TAP HERE !!! &lt;&lt;&lt;" FontSize="Large" FontAttributes="Bold" HorizontalTextAlignment="Center" BackgroundColor="Yellow"/>
+
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding Source={RelativeSource AncestorType={x:Type ContentPage}}, Path=BindingContext.TestCommand}"/>
+                            
+                        </StackLayout.GestureRecognizers>
+                        
+                    </StackLayout>
+<!--THIS, FOR SOME WEIRD REASON, WORKS FINE:-->
+<!--THIS, FOR SOME WEIRD REASON, WORKS FINE:-->
+<!--THIS, FOR SOME WEIRD REASON, WORKS FINE:-->
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                </Grid>
+            </Frame>
+        </StackLayout>
+    </DataTemplate>
+</ResourceDictionary>
+    

@@ -1,0 +1,4 @@
+﻿Remember:
+	All icons should be 
+		"BUILD ACTION... ANDROID RESOURCE"
+		"COPT TO... COPY IF NEWER"

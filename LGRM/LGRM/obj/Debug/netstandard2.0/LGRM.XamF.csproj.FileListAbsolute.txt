@@ -1,0 +1,572 @@
+C:\Users\ScumS\source\repos\LGRM200904\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.deps.json
+C:\Users\ScumS\source\repos\LGRM200904\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM200904\LGRM\LGRM\bin\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM200904\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM200904\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csprojAssemblyReference.cache
+C:\Users\ScumS\source\repos\LGRM200904\LGRM\LGRM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM200904\LGRM\LGRM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM200904\LGRM\LGRM\obj\Debug\netstandard2.0\Views\GroceryDetailView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM200904\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfGroceriesView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM200904\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateCategoryView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM200904\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM200904\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\LGRM200904\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM200904\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\LGRM200904\LGRM\LGRM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ScumS\source\repos\LGRM200904\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM200904\LGRM\LGRM\obj\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM200904\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM200909\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.deps.json
+C:\Users\ScumS\source\repos\LGRM200909\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM200909\LGRM\LGRM\bin\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM200909\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM200909\LGRM\LGRM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM200909\LGRM\LGRM\obj\Debug\netstandard2.0\Views\GroceryDetailView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM200909\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfGroceriesView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM200909\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateCategoryView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM200909\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM200909\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ViewCells\GroceryCell.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM200909\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\LGRM200909\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM200909\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\LGRM200909\LGRM\LGRM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ScumS\source\repos\LGRM200909\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM200909\LGRM\LGRM\obj\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM200909\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM200909\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csprojAssemblyReference.cache
+C:\Users\ScumS\source\repos\LGRM2009111113\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.deps.json
+C:\Users\ScumS\source\repos\LGRM2009111113\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM2009111113\LGRM\LGRM\bin\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM2009111113\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM2009111113\LGRM\LGRM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM2009111113\LGRM\LGRM\obj\Debug\netstandard2.0\Views\GroceryDetailView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM2009111113\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfGroceriesView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM2009111113\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateCategoryView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM2009111113\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM2009111113\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ViewCells\GroceryCell.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM2009111113\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\LGRM2009111113\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM2009111113\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\LGRM2009111113\LGRM\LGRM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ScumS\source\repos\LGRM2009111113\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM2009111113\LGRM\LGRM\obj\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM2009111113\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM2009111113\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csprojAssemblyReference.cache
+C:\Users\ScumS\source\repos\LGRM200913\LGRM\LGRM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM200913\LGRM\LGRM\obj\Debug\netstandard2.0\Views\GroceryDetailView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM200913\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfGroceriesView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM200913\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateCategoryView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM200913\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM200913\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ViewCells\GroceryCell.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM200913\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\LGRM200913\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM200913\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\LGRM200913\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM200913\LGRM\LGRM\obj\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM200913\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM200913\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csprojAssemblyReference.cache
+C:\Users\ScumS\source\repos\LGRM200913\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.deps.json
+C:\Users\ScumS\source\repos\LGRM200913\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM200913\LGRM\LGRM\bin\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM200913\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM200913\LGRM\LGRM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ScumS\source\repos\LGRM200918\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.deps.json
+C:\Users\ScumS\source\repos\LGRM200918\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM200918\LGRM\LGRM\bin\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM200918\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM200918\LGRM\LGRM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM200918\LGRM\LGRM\obj\Debug\netstandard2.0\Views\GroceryDetailView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM200918\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfGroceriesView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM200918\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateCategoryView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM200918\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM200918\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ViewCells\GroceryCell.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM200918\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\LGRM200918\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM200918\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\LGRM200918\LGRM\LGRM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ScumS\source\repos\LGRM200918\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM200918\LGRM\LGRM\obj\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM200918\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM200918\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csprojAssemblyReference.cache
+C:\Users\ScumS\source\repos\LGRM201001-1508\LGRM\LGRM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM201001-1508\LGRM\LGRM\obj\Debug\netstandard2.0\Views\GroceryDetailView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM201001-1508\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfGroceriesView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM201001-1508\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateCategoryView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM201001-1508\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM201001-1508\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ViewCells\GroceryCell.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM201001-1508\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\LGRM201001-1508\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM201001-1508\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\LGRM201001-1508\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.deps.json
+C:\Users\ScumS\source\repos\LGRM201001-1508\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM201001-1508\LGRM\LGRM\bin\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM201001-1508\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM201001-1508\LGRM\LGRM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ScumS\source\repos\LGRM201001-1508\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM201001-1508\LGRM\LGRM\obj\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM201001-1508\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM201001-1508\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csprojAssemblyReference.cache
+C:\Users\ScumS\source\repos\LGRM-201004\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.deps.json
+C:\Users\ScumS\source\repos\LGRM-201004\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201004\LGRM\LGRM\bin\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201004\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201004\LGRM\LGRM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201004\LGRM\LGRM\obj\Debug\netstandard2.0\Views\GroceryDetailView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201004\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateCategoryView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201004\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201004\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ViewCells\GroceryCell.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201004\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201004\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM-201004\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201004\LGRM\LGRM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ScumS\source\repos\LGRM-201004\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201004\LGRM\LGRM\obj\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201004\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201004\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListCondimentsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201004\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListGreensView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201004\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListHealthyFatsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201004\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListLeansView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201004\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csprojAssemblyReference.cache
+C:\Users\ScumS\source\repos\LGRM-201005\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.deps.json
+C:\Users\ScumS\source\repos\LGRM-201005\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201005\LGRM\LGRM\bin\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201005\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201005\LGRM\LGRM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201005\LGRM\LGRM\obj\Debug\netstandard2.0\Views\GroceryDetailView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201005\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListCondimentsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201005\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListGreensView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201005\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListHealthyFatsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201005\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListLeansView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201005\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateCategoryView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201005\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201005\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201005\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM-201005\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201005\LGRM\LGRM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ScumS\source\repos\LGRM-201005\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201005\LGRM\LGRM\obj\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201005\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201005\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csprojAssemblyReference.cache
+C:\Users\ScumS\source\repos\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.deps.json
+C:\Users\ScumS\source\repos\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\bin\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csprojAssemblyReference.cache
+C:\Users\ScumS\source\repos\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\Views\GroceryDetailView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListCondimentsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListGreensView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListHealthyFatsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListLeansView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateCategoryView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ScumS\source\repos\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\bin\Debug\netstandard2.0\AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\bin\Debug\netstandard2.0\Document.txt
+C:\Users\ScumS\source\repos\_Archive\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\bin\Debug\netstandard2.0\AssemblyInfo.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\bin\Debug\netstandard2.0\Document.txt
+C:\Users\ScumS\source\repos\_Archive\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.deps.json
+C:\Users\ScumS\source\repos\_Archive\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\_Archive\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\bin\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\_Archive\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\_Archive\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csprojAssemblyReference.cache
+C:\Users\ScumS\source\repos\_Archive\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\Views\GroceryDetailView.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListCondimentsView.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListGreensView.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListHealthyFatsView.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListLeansView.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateCategoryView.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateView.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\_Archive\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\_Archive\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ScumS\source\repos\_Archive\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\_Archive\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\_Archive\LGRM-201008 - Try to read DB list only once\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201010b\LGRM\LGRM\bin\Debug\netstandard2.0\AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM-201010b\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.deps.json
+C:\Users\ScumS\source\repos\LGRM-201010b\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201010b\LGRM\LGRM\bin\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201010b\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201010b\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csprojAssemblyReference.cache
+C:\Users\ScumS\source\repos\LGRM-201010b\LGRM\LGRM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201010b\LGRM\LGRM\obj\Debug\netstandard2.0\Views\GroceryDetailView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201010b\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListCondimentsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201010b\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListGreensView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201010b\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListHealthyFatsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201010b\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListLeansView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201010b\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateCategoryView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201010b\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201010b\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201010b\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM-201010b\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201010b\LGRM\LGRM\obj\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201010b\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201010b\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201010b\LGRM\LGRM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ScumS\source\repos\LGRM-201011\LGRM\LGRM\bin\Debug\netstandard2.0\AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM-201011\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.deps.json
+C:\Users\ScumS\source\repos\LGRM-201011\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201011\LGRM\LGRM\bin\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201011\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201011\LGRM\LGRM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201011\LGRM\LGRM\obj\Debug\netstandard2.0\Views\GroceryDetailView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201011\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListCondimentsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201011\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListGreensView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201011\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListHealthyFatsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201011\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListLeansView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201011\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateCategoryView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201011\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201011\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201011\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM-201011\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201011\LGRM\LGRM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ScumS\source\repos\LGRM-201011\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201011\LGRM\LGRM\obj\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201011\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201011\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csprojAssemblyReference.cache
+C:\Users\ScumS\source\repos\LGRM-201012\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csprojAssemblyReference.cache
+C:\Users\ScumS\source\repos\LGRM-201012\LGRM\LGRM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201012\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DataTemplateGrocery.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201012\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DataTemplateGrub.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201012\LGRM\LGRM\obj\Debug\netstandard2.0\Views\GroceryDetailView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201012\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListCondimentsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201012\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListGreensView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201012\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListHealthyFatsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201012\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListLeansView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201012\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateCategoryView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201012\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201012\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PrefsUserView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201012\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201012\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM-201012\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201012\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201012\LGRM\LGRM\obj\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201012\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201012\LGRM\LGRM\bin\Debug\netstandard2.0\AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM-201012\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.deps.json
+C:\Users\ScumS\source\repos\LGRM-201012\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201012\LGRM\LGRM\bin\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201012\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201012\LGRM\LGRM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ScumS\source\repos\LGRM-201013\LGRM\LGRM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201013\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DataTemplates\DTGrocery.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201013\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubBy1UOM.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201013\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubBy2UOMs.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201013\LGRM\LGRM\obj\Debug\netstandard2.0\Views\GroceryDetailView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201013\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListCondimentsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201013\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListGreensView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201013\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListHealthyFatsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201013\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListLeansView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201013\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateCategoryView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201013\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201013\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PrefsUserView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201013\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201013\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM-201013\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201013\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201013\LGRM\LGRM\obj\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201013\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201013\LGRM\LGRM\bin\Debug\netstandard2.0\AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM-201013\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.deps.json
+C:\Users\ScumS\source\repos\LGRM-201013\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201013\LGRM\LGRM\bin\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201013\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201013\LGRM\LGRM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ScumS\source\repos\LGRM-201013\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csprojAssemblyReference.cache
+C:\Users\ScumS\source\repos\LGRM-201017\LGRM\LGRM\bin\Debug\netstandard2.0\AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM-201017\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.deps.json
+C:\Users\ScumS\source\repos\LGRM-201017\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201017\LGRM\LGRM\bin\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201017\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201017\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csprojAssemblyReference.cache
+C:\Users\ScumS\source\repos\LGRM-201017\LGRM\LGRM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201017\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DataTemplates\DTGrocery.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201017\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubBy1UOM.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201017\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubBy2UOMs.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201017\LGRM\LGRM\obj\Debug\netstandard2.0\Views\GroceryDetailView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201017\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListCondimentsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201017\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListGreensView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201017\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListHealthyFatsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201017\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListLeansView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201017\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateCategoryView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201017\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201017\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PrefsUserView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201017\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201017\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM-201017\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201017\LGRM\LGRM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ScumS\source\repos\LGRM-201017\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201017\LGRM\LGRM\obj\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201017\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201017 - Change to Selection as Event\LGRM\LGRM\bin\Debug\netstandard2.0\AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM-201017 - Change to Selection as Event\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.deps.json
+C:\Users\ScumS\source\repos\LGRM-201017 - Change to Selection as Event\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201017 - Change to Selection as Event\LGRM\LGRM\bin\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201017 - Change to Selection as Event\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201017 - Change to Selection as Event\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csprojAssemblyReference.cache
+C:\Users\ScumS\source\repos\LGRM-201017 - Change to Selection as Event\LGRM\LGRM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201017 - Change to Selection as Event\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DataTemplates\DTGrocery.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201017 - Change to Selection as Event\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubBy1UOM.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201017 - Change to Selection as Event\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubBy2UOMs.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201017 - Change to Selection as Event\LGRM\LGRM\obj\Debug\netstandard2.0\Views\GroceryDetailView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201017 - Change to Selection as Event\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListCondimentsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201017 - Change to Selection as Event\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListGreensView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201017 - Change to Selection as Event\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListHealthyFatsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201017 - Change to Selection as Event\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListLeansView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201017 - Change to Selection as Event\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateCategoryView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201017 - Change to Selection as Event\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201017 - Change to Selection as Event\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PrefsUserView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201017 - Change to Selection as Event\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201017 - Change to Selection as Event\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM-201017 - Change to Selection as Event\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201017 - Change to Selection as Event\LGRM\LGRM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ScumS\source\repos\LGRM-201017 - Change to Selection as Event\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201017 - Change to Selection as Event\LGRM\LGRM\obj\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201017 - Change to Selection as Event\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201018 - Rebuild selecting\LGRM\LGRM\bin\Debug\netstandard2.0\AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM-201018 - Rebuild selecting\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.deps.json
+C:\Users\ScumS\source\repos\LGRM-201018 - Rebuild selecting\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201018 - Rebuild selecting\LGRM\LGRM\bin\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201018 - Rebuild selecting\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201018 - Rebuild selecting\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csprojAssemblyReference.cache
+C:\Users\ScumS\source\repos\LGRM-201018 - Rebuild selecting\LGRM\LGRM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201018 - Rebuild selecting\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DataTemplates\DTGrocery.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201018 - Rebuild selecting\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubBy1UOM.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201018 - Rebuild selecting\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubBy2UOMs.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201018 - Rebuild selecting\LGRM\LGRM\obj\Debug\netstandard2.0\Views\GroceryDetailView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201018 - Rebuild selecting\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListCondimentsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201018 - Rebuild selecting\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListGreensView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201018 - Rebuild selecting\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListHealthyFatsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201018 - Rebuild selecting\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListLeansView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201018 - Rebuild selecting\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateCategoryView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201018 - Rebuild selecting\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201018 - Rebuild selecting\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PrefsUserView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201018 - Rebuild selecting\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201018 - Rebuild selecting\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM-201018 - Rebuild selecting\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201018 - Rebuild selecting\LGRM\LGRM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ScumS\source\repos\LGRM-201018 - Rebuild selecting\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201018 - Rebuild selecting\LGRM\LGRM\obj\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201018 - Rebuild selecting\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201019- Make Plate Entries Work\LGRM\LGRM\bin\Debug\netstandard2.0\AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM-201019- Make Plate Entries Work\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.deps.json
+C:\Users\ScumS\source\repos\LGRM-201019- Make Plate Entries Work\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201019- Make Plate Entries Work\LGRM\LGRM\bin\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201019- Make Plate Entries Work\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201019- Make Plate Entries Work\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csprojAssemblyReference.cache
+C:\Users\ScumS\source\repos\LGRM-201019- Make Plate Entries Work\LGRM\LGRM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201019- Make Plate Entries Work\LGRM\LGRM\obj\Debug\netstandard2.0\Styles\Colors.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201019- Make Plate Entries Work\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DataTemplates\DTGrocery.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201019- Make Plate Entries Work\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubBy1UOM.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201019- Make Plate Entries Work\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubBy2UOMs.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201019- Make Plate Entries Work\LGRM\LGRM\obj\Debug\netstandard2.0\Views\GroceryDetailView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201019- Make Plate Entries Work\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfCondimentsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201019- Make Plate Entries Work\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfGreensView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201019- Make Plate Entries Work\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfHealthyFatsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201019- Make Plate Entries Work\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfLeansView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201019- Make Plate Entries Work\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateCategoryView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201019- Make Plate Entries Work\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201019- Make Plate Entries Work\LGRM\LGRM\obj\Debug\netstandard2.0\Views\UserPrefsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201019- Make Plate Entries Work\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201019- Make Plate Entries Work\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM-201019- Make Plate Entries Work\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201019- Make Plate Entries Work\LGRM\LGRM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ScumS\source\repos\LGRM-201019- Make Plate Entries Work\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201019- Make Plate Entries Work\LGRM\LGRM\obj\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201019- Make Plate Entries Work\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\bin\Debug\netstandard2.0\AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.deps.json
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\bin\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csprojAssemblyReference.cache
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\Styles\Colors.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByC.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByError.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByV.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByVC.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByW.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByWC.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByWV.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByWVC.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByC.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByV.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByVC.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByW.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByWC.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByWV.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByWVC.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\Views\GroceryDetailView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfCondimentsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfGreensView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfHealthyFatsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfLeansView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateCategoryView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\Views\UserPrefsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201021- Link Plate Entry Qtys\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\bin\Debug\netstandard2.0\AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.deps.json
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\bin\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csprojAssemblyReference.cache
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\Styles\Colors.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByC.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByError.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByV.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByVC.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByW.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByWC.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByWV.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByWVC.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByC.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByV.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByVC.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByW.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByWC.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByWV.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByWVC.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\Views\GroceryDetailView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfCondimentsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfGreensView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfHealthyFatsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfLeansView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateCategoryView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\Views\UserPrefsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201023\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Styles\Colors.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByC.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByError.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByV.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByVC.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByW.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByWC.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByWV.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByWVC.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByC.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByV.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByVC.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByW.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByWC.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByWV.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByWVC.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\GroceryDetailView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfCondimentsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfGreensView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfHealthyFatsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfLeansView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateCategoryView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\UserPrefsView.xaml.g.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\bin\Debug\netstandard2.0\AssemblyInfo.cs
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.deps.json
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\bin\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\bin\Debug\netstandard2.0\AssemblyInfo.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.deps.json
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\bin\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csprojAssemblyReference.cache
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Styles\Colors.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByC.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByError.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByV.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByVC.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByW.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByWC.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByWV.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByWVC.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByC.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByV.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByVC.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByW.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByWC.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByWV.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByWVC.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\GroceryDetailView.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfCondimentsView.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfGreensView.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfHealthyFatsView.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfLeansView.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateCategoryView.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateView.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\Views\UserPrefsView.xaml.g.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\_Archive\LGRM-201024\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\LGRM-201024 DataTemplateEventToCommandIssue\LGRM\LGRM\bin\Debug\netstandard2.0\AssemblyInfo.cs
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\LGRM-201024 DataTemplateEventToCommandIssue\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.deps.json
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\LGRM-201024 DataTemplateEventToCommandIssue\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\LGRM-201024 DataTemplateEventToCommandIssue\LGRM\LGRM\bin\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\LGRM-201024 DataTemplateEventToCommandIssue\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\LGRM-201024 DataTemplateEventToCommandIssue\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csprojAssemblyReference.cache
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\LGRM-201024 DataTemplateEventToCommandIssue\LGRM\LGRM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\LGRM-201024 DataTemplateEventToCommandIssue\LGRM\LGRM\obj\Debug\netstandard2.0\Styles\Colors.xaml.g.cs
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\LGRM-201024 DataTemplateEventToCommandIssue\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGroceryByWV.xaml.g.cs
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\LGRM-201024 DataTemplateEventToCommandIssue\LGRM\LGRM\obj\Debug\netstandard2.0\Views\DTGrubByWV.xaml.g.cs
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\LGRM-201024 DataTemplateEventToCommandIssue\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfGreensView.xaml.g.cs
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\LGRM-201024 DataTemplateEventToCommandIssue\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateView.xaml.g.cs
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\LGRM-201024 DataTemplateEventToCommandIssue\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\LGRM-201024 DataTemplateEventToCommandIssue\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\LGRM-201024 DataTemplateEventToCommandIssue\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\LGRM-201024 DataTemplateEventToCommandIssue\LGRM\LGRM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\LGRM-201024 DataTemplateEventToCommandIssue\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\LGRM-201024 DataTemplateEventToCommandIssue\LGRM\LGRM\obj\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\LGRM-201024 DataTemplateEventToCommandIssue\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\DataTemplateEventIssue\LGRM\LGRM\bin\Debug\netstandard2.0\AssemblyInfo.cs
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\DataTemplateEventIssue\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.deps.json
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\DataTemplateEventIssue\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\DataTemplateEventIssue\LGRM\LGRM\bin\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\DataTemplateEventIssue\LGRM\LGRM\bin\Debug\netstandard2.0\LGRM.XamF.pdb
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\DataTemplateEventIssue\LGRM\LGRM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\DataTemplateEventIssue\LGRM\LGRM\obj\Debug\netstandard2.0\Styles\Colors.xaml.g.cs
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\DataTemplateEventIssue\LGRM\LGRM\obj\Debug\netstandard2.0\Views\ListOfGreensView.xaml.g.cs
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\DataTemplateEventIssue\LGRM\LGRM\obj\Debug\netstandard2.0\Views\MyDataTemplate1.xaml.g.cs
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\DataTemplateEventIssue\LGRM\LGRM\obj\Debug\netstandard2.0\Views\PlateView.xaml.g.cs
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\DataTemplateEventIssue\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\DataTemplateEventIssue\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\DataTemplateEventIssue\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\DataTemplateEventIssue\LGRM\LGRM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\DataTemplateEventIssue\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\DataTemplateEventIssue\LGRM\LGRM\obj\Debug\netstandard2.0\ref\LGRM.XamF.dll
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\DataTemplateEventIssue\LGRM\LGRM\obj\Debug\netstandard2.0\LGRM.XamF.pdb
