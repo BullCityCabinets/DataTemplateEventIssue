@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ResourceDictionary xmlns="http://xamarin.com/schemas/2014/forms"               
                     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-                    xmlns:behaviors ="clr-namespace:LGRM.XamF.Framework">
+                    xmlns:behaviors ="clr-namespace:LGRM.XamF.Framework"
+                    xmlns:controls ="clr-namespace:LGRM.XamF.Views">
 
     <DataTemplate x:Name="MyDataTemplate1" x:Key="myDataTemplate1">
             <!--<Outter StackLayout Margin creates Row Spacing (seems like a Frame bug) !-->
@@ -49,10 +50,10 @@
                         
                         
                         
-<!--THIS IS THE ENTRY I NEED TO CAPTURE AN EVENT FROM:-->
-<!--THIS IS THE ENTRY I NEED TO CAPTURE AN EVENT FROM:-->
-<!--THIS IS THE ENTRY I NEED TO CAPTURE AN EVENT FROM:-->
-                        <Entry x:Name="PortionEntry"
+<!-- THIS IS THE ENTRY I NEED TO CAPTURE AN EVENT FROM: -->
+<!-- THIS IS THE ENTRY I NEED TO CAPTURE AN EVENT FROM: -->
+<!-- THIS IS THE ENTRY I NEED TO CAPTURE AN EVENT FROM: -->
+                        <!--<Entry x:Name="PortionEntry"
                             Keyboard="Numeric"
                             Text ="{Binding QtyPortion, Mode=TwoWay}"                                             
                             WidthRequest="80"
@@ -63,18 +64,25 @@
                                 <behaviors:EventToCommandBehavior EventName="TextChanged" Command="{Binding BindingContext.TestCommand, Source={x:Reference MyPlateVM}}"/>
                                 <behaviors:EventToCommandBehavior EventName="TextChanged" Command="{Binding BindingContext.TestCommand, Source={x:Reference PlateView}}"/>
                                                                 
-                                <!--<behaviors:EventToCommandBehavior EventName="Completed"
+                                --><!--<behaviors:EventToCommandBehavior EventName="Completed"
                                     Command="{Binding Source={RelativeSource AncestorType={x:Type ContentPage}}, Path=BindingContext.TestCommand}"/>-->
                                 <!--<behaviors:EventToCommandBehavior EventName="Focused"
-                                    Command="{Binding Source={RelativeSource AncestorType={x:Type ContentPage}}, Path=BindingContext.TestCommand}"/>-->
+                                    Command="{Binding Source={RelativeSource AncestorType={x:Type ContentPage}}, Path=BindingContext.TestCommand}"/>--><!--
 
                                 
                             </Entry.Behaviors>
-                        </Entry>
-                    
-<!--THIS IS THE ENTRY I NEED TO CAPTURE AN EVENT FROM:-->
-<!--THIS IS THE ENTRY I NEED TO CAPTURE AN EVENT FROM:-->
-<!--THIS IS THE ENTRY I NEED TO CAPTURE AN EVENT FROM:-->
+                        </Entry>-->
+
+                        <controls:CustomEntry x:Name="PortionEntry"
+                            Keyboard="Numeric"
+                            Text ="{Binding QtyPortion, Mode=TwoWay}"                                             
+                            WidthRequest="80"
+                            FontSize="{Binding Source={x:Reference ServingsLabel}, Path=FontSize}" 
+                            TextChangedCommand="{Binding Source={RelativeSource AncestorType={x:Type ContentPage}}, Path=BindingContext.TestCommand}"/>
+  
+<!-- THIS IS THE ENTRY I NEED TO CAPTURE AN EVENT FROM -->
+<!-- THIS IS THE ENTRY I NEED TO CAPTURE AN EVENT FROM -->
+<!-- THIS IS THE ENTRY I NEED TO CAPTURE AN EVENT FROM -->
                         
                     </StackLayout>
 

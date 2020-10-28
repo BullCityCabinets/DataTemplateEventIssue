@@ -1,0 +1,1 @@
+C:\Users\ScumS\source\repos\_SamplesToShareOnGithub\DataTemplateEventIssue\LGRM\LGRM.UWP\LGRM.UWP.csproj;x86
