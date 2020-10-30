@@ -8,14 +8,15 @@
             <!--<Outter StackLayout Margin creates Row Spacing (seems like a Frame bug) !-->
             <StackLayout Margin="0,0,0,8" Spacing="0">
 
+                
             <Frame CornerRadius="4" IsClippedToBounds="True" Padding="0,0,0,18" BorderColor="SlateGray">
                 <Grid VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="0" Padding="0" RowSpacing="0" >
                     <Grid.RowDefinitions>
-                        <RowDefinition Height="35"></RowDefinition>                    
-                        <RowDefinition Height="25"></RowDefinition>                    
-                        <RowDefinition Height="*"></RowDefinition>                     
-                        <RowDefinition Height="Auto"></RowDefinition>                  
-                        <RowDefinition Height="Auto"></RowDefinition>                  
+                        <RowDefinition Height="35"></RowDefinition>
+                        <RowDefinition Height="25"></RowDefinition>
+                        <RowDefinition Height="*"></RowDefinition>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="Auto"></RowDefinition>
                         <RowDefinition Height="Auto"></RowDefinition>
                         
                     </Grid.RowDefinitions>
@@ -53,7 +54,7 @@
 <!-- THIS IS THE ENTRY I NEED TO CAPTURE AN EVENT FROM: -->
 <!-- THIS IS THE ENTRY I NEED TO CAPTURE AN EVENT FROM: -->
 <!-- THIS IS THE ENTRY I NEED TO CAPTURE AN EVENT FROM: -->
-                        <!--<Entry x:Name="PortionEntry"
+                        <Entry x:Name="PortionEntry"
                             Keyboard="Numeric"
                             Text ="{Binding QtyPortion, Mode=TwoWay}"                                             
                             WidthRequest="80"
@@ -64,21 +65,23 @@
                                 <behaviors:EventToCommandBehavior EventName="TextChanged" Command="{Binding BindingContext.TestCommand, Source={x:Reference MyPlateVM}}"/>
                                 <behaviors:EventToCommandBehavior EventName="TextChanged" Command="{Binding BindingContext.TestCommand, Source={x:Reference PlateView}}"/>
                                                                 
-                                --><!--<behaviors:EventToCommandBehavior EventName="Completed"
-                                    Command="{Binding Source={RelativeSource AncestorType={x:Type ContentPage}}, Path=BindingContext.TestCommand}"/>-->
-                                <!--<behaviors:EventToCommandBehavior EventName="Focused"
-                                    Command="{Binding Source={RelativeSource AncestorType={x:Type ContentPage}}, Path=BindingContext.TestCommand}"/>--><!--
+                                <behaviors:EventToCommandBehavior EventName="Completed"
+                                    Command="{Binding Source={RelativeSource AncestorType={x:Type ContentPage}}, Path=BindingContext.TestCommand}"/>
+                                <behaviors:EventToCommandBehavior EventName="Focused"
+                                    Command="{Binding Source={RelativeSource AncestorType={x:Type ContentPage}}, Path=BindingContext.TestCommand}"/>
 
                                 
                             </Entry.Behaviors>
-                        </Entry>-->
+                        </Entry>
 
-                        <controls:CustomEntry x:Name="PortionEntry"
+                        
+<!--This CustomEntry looks like the text binding breaks... it doesn't render-->
+                        <!--<controls:CustomEntry x:Name="PortionEntry"
                             Keyboard="Numeric"
                             Text ="{Binding QtyPortion, Mode=TwoWay}"                                             
                             WidthRequest="80"
                             FontSize="{Binding Source={x:Reference ServingsLabel}, Path=FontSize}" 
-                            TextChangedCommand="{Binding Source={RelativeSource AncestorType={x:Type ContentPage}}, Path=BindingContext.TestCommand}"/>
+                            TextChangedCommand="{Binding Source={RelativeSource AncestorType={x:Type ContentPage}}, Path=BindingContext.TestCommand}"/>-->
   
 <!-- THIS IS THE ENTRY I NEED TO CAPTURE AN EVENT FROM -->
 <!-- THIS IS THE ENTRY I NEED TO CAPTURE AN EVENT FROM -->
